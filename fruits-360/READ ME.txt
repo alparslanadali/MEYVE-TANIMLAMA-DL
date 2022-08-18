@@ -1,4 +1,14 @@
+EN
+
 You must be only take Test and Train datas. If you take all data document code will be broken.
 Take Test and train datas copys from Fruid-360 document and delete README.txt. 
 
 You can take data from that link: https://www.kaggle.com/datasets/moltean/fruits
+
+
+TR 
+
+Sadece Test ve Train dosyalarını bu klasöre kopyalamanız gerekmektedir aksi takdirde kod çalışmayacaktır. 
+Test ve Train dosyalarını Fruid-360 klasörüne kopyalayın ve README.txt dosyasını silin 
+
+Data dosyalarını bu linkten alabilirsiniz: https://www.kaggle.com/datasets/moltean/fruits
