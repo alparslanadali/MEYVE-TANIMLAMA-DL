@@ -7,7 +7,7 @@ import numpy as np
 import os
 import pickle
 # ****************** UYARI ********************************
-#Kodun çalışması için kod dosyalarının içinde sadece Training,Test,Validation olması gerekmektedir yoksa data için resimleri okurken hata ile karşılaşırsınız.
+#Kodun çalışması için kod dosyalarının içinde sadece Training,Test olması gerekmektedir yoksa data için resimleri okurken hata ile karşılaşırsınız.
 # ****************** UYARI ********************************
 
 
