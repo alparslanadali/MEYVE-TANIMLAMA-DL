@@ -1,0 +1,4 @@
+You must be only take Test and Train datas. If you take all data document code will be broken.
+Take Test and train datas copy Fruid-360 document and delete README.txt. 
+
+You can take data from that link: https://www.kaggle.com/datasets/moltean/fruits
